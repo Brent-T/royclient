@@ -1,0 +1,15 @@
+{
+  "name": "royclient",
+  "version": "1.0.0",
+  "description": "🥫 All your favorite Royco flavors in one package! 🥫 🐓 🥗 🍄 🎃",
+  "author": "Brent-T <brenttimmermans7@gmail.com>",
+  "repository": "git@github.com:Brent-T/royclient.git",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "random-item": "^1.0.0"
+  }
+}
